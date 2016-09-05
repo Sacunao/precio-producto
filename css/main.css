@@ -1,0 +1,39 @@
+html, body {
+	height: 100%;
+	width: 100%;
+	font-family: verdana;
+}
+body{
+	background: url(../image/shopping.jpg) no-repeat;
+	background-size: 100%;
+	background-size: cover;
+}
+.w-80{
+	width: 80%;
+
+}
+.d-flex {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+/* ----Formulario------*/
+.formulario{
+	background-color: #FFFFFF;
+	width: 30%;
+	border: 1px gray solid;
+	border-top: 8px #E44B23 solid;
+	padding: 2% 2%;
+}
+.content h3{
+	text-align: center;
+	color: #E44B23;
+}
+
+.btn{
+	color: #FFFFFF;
+	border: none;
+	background-color: #E44B23;
+	padding: 1% 5%;
+	margin:2% 30%;
+}
